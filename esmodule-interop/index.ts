@@ -1,3 +1,2 @@
-import m from "cjs-module";
-
-m();
+import * as module from "cjs-module-like-express";
+module();
